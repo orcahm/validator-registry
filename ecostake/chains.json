@@ -10,7 +10,16 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1fqs7gakxdmujtk0qufdzth5pfyspus3yx394zd",
+      "restake": {
+        "address": "mantle1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcz0jupvu",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
       }
     },
     {
@@ -31,7 +40,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     },
     {
@@ -43,7 +52,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     },
     {
@@ -55,7 +64,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     },
     {
@@ -67,7 +76,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     },
     {
@@ -79,7 +88,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     }
   ]
